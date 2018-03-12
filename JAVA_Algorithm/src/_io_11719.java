@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _11719 {
+public class _io_11719 {
 	public static void main(String[] args) {
 		String str;
 		Scanner sc = new Scanner(System.in);
