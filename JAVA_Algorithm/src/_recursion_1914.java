@@ -9,7 +9,7 @@ public class _recursion_1914 {
 		int N = sc.nextInt();
 		BigInteger big = BigInteger.ONE;
 		for(int i=0; i<N; i++)
-			big = big.multiply(BigInteger.TWO);
+			big = big.multiply(BigInteger.valueOf(2));
 		big = big.add(BigInteger.valueOf(-1));
 		
 		System.out.print(big);
